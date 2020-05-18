@@ -13,3 +13,5 @@ Our system allows the user the option to either
 Once this is created the user can select how many seconds they want the fire to be active for before the route is created.
 
 This project utilizes: Python, A* search, Boundary fill algorithm and TkInter
+
+A video walk through of this project is available at - https://www.youtube.com/watch?v=K_irX9DD7Pc 
